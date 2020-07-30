@@ -1,9 +1,3 @@
-import numpy as np
-import csv
-from collections import defaultdict
-import pandas as pd
-import statistics
-import pandas as pd
 import matplotlib.pyplot as plt
 import csv
 from collections import defaultdict
