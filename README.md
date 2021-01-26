@@ -1,6 +1,8 @@
 # brain-doesnt-lie
 My repository for a research project titled : Estimating User Engagement Statistics for Online Videos Using EEG Signals. The project is based on Brain Computing Interfaces and captures EEG signals through a non-invasive BCI device Emotiv Insight using Cortex API. Scroll Down for Project description. I also wrote an ACM Late Breaking Works paper (not published) in the CHI2020 Extended Abstract Format.
 
+Video detailing the project - https://www.youtube.com/watch?v=Dmz4bI9XAFk 
+
 The study on user engagement for online videos is interesting
 as the number of online videos is growing exponentially.
 There are multiple videos available for a single topic with
